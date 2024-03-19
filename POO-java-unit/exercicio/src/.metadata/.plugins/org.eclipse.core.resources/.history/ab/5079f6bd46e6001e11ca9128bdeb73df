@@ -1,0 +1,17 @@
+package exercicio6_crud;
+import java.util.Scanner;
+
+
+
+public class ContaCorrente {
+	ContaBancaria cb = new ContaBancaria();
+	CriarExibirConta ce = new CriarExibirConta();
+	
+	Scanner s = new Scanner(System.in);
+	
+	
+	
+	
+	
+
+}
